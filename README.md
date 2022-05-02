@@ -1,1 +1,257 @@
-# zen-koi-2-list
+# Zen Koi 2 List
+
+## Key
+* ~crossed out~ = finished koi collection
+* [x] checkmark = unlocked
+
+## PROGRESSIVES
+- [X] ~Inazuma~
+- [X] ~Nidan~
+- [X] ~Goten~
+- [X] ~Kirin~
+- [X] ~Puru~
+- [X] ~Kimasu~
+- [X] ~Zebura~
+- [X] Meisai
+- [ ] Shizuku
+- [ ] Supure
+- [ ] Toraiu
+- [ ] Goromo
+- [ ] Kohaku
+- [ ] Masuku
+- [ ] Shapu
+- [ ] Utsuri
+- [ ] Kanoko
+- [ ] Goshiki
+- [ ] Kawari
+- [ ] Bekko
+- [ ] Mame
+- [ ] Ogon
+- [ ] Kujaku
+- [ ] Doitsu
+- [ ] Kumon
+- [ ] Ginrin
+- [ ] Bakodo
+- [ ] Godan
+- [ ] Tojiki
+- [ ] Katame
+
+## COLLECTORS
+- [ ] Aishite
+- [ ] Akachan
+- [ ] Akua
+- [X] Akuu
+- [ ] Amado
+- [ ] Atii
+- [ ] Baburi
+- [ ] Baburu
+- [ ] Batikku
+- [ ] Beta
+- [ ] Biri
+- [ ] Borei
+- [ ] Botan
+- [X] Bukimi
+- [ ] Bunki
+- [ ] Bureku
+- [ ] Burokku
+- [ ] Buronko
+- [ ] Buta
+- [ ] Byakko
+- [ ] Byoga
+- [ ] Cheka
+- [X] Chiru
+- [ ] Chocho
+- [ ] Chokka
+- [ ] Daimon
+- [X] Deta
+- [X] Dienue
+- [ ] Dokuro
+- [ ] Doragon
+- [ ] Dorama
+- [ ] Ekkusu
+- [ ] Essha
+- [X] Fuwa
+- [X] Gekko
+- [ ] Genso
+- [ ] Ginga
+- [X] Goburu
+- [ ] Goshikku
+- [ ] Gurade
+- [ ] Guriddo
+- [ ] Habu
+- [ ] Haisen
+- [ ] Hamon
+- [X] Hanabi
+- [X] Hanami
+- [ ] Hanawa
+- [ ] Hanrin
+- [ ] Happa
+- [ ] Happi
+- [ ] Hari
+- [ ] Hatsu
+- [ ] Hippi
+- [ ] Hisho
+- [ ] Hishu
+- [ ] Hitsuji
+- [ ] Hiyake
+- [ ] Hiyoko
+- [ ] Hoseki
+- [X] Hoshizo
+- [ ] Hosshin
+- [ ] Hyogara
+- [ ] Hyogen
+- [ ] Hyokan
+- [ ] Ichigo
+- [ ] Inku
+- [ ] Itoo
+- [ ] Jagi
+- [ ] Jigi
+- [X] Jimoto
+- [ ] Jiotori
+- [ ] Jippa
+- [ ] Jueru
+- [ ] Kabocha
+- [ ] Kaen
+- [ ] Kaizoku
+- [X] Kajitsu
+- [ ] Kamen
+- [ ] Kani
+- [X] Kanki
+- [ ] Kanmon
+- [ ] Kanzo
+- [ ] Karaton
+- [ ] Kazaru
+- [ ] Keshiki
+- [ ] Kessho
+- [ ] Kigen
+- [ ] Kinko
+- [ ] Kirinu
+- [ ] Kiruto
+- [ ] Kodani
+- [ ] Kodomo
+- [ ] Koibori
+- [X] Komono
+- [ ] Komori
+- [ ] Koneku
+- [X] Konma
+- [ ] Kosen
+- [ ] Koto
+- [X] Koun
+- [ ] Kubiwa
+- [ ] Kurinpu
+- [ ] Kyandi
+- [ ] Kyobona
+- [ ] Kyubik
+- [ ] Majo
+- [ ] Mebaeru
+- [ ] Menfisu
+- [ ] Miraju
+- [ ] Modoru
+- [ ] Mozaiku
+- [ ] Mukei
+- [ ] Naisu
+- [ ] Natsu
+- [ ] Nezumi
+- [ ] Nitto
+- [ ] Nousagi
+- [ ] Nuime
+- [X] Nureta
+- [ ] Nyanya
+- [ ] Ochiba
+- [ ] Okan
+- [ ] Okuto
+- [ ] Ondori
+- [X] Onmyo
+- [ ] Onpa
+- [ ] Oriito
+- [ ] Oushi
+- [ ] Parifu
+- [X] Pazuru
+- [ ] Rabu
+- [ ] Raion
+- [ ] Rakki
+- [X] Rasen
+- [ ] Reini
+- [ ] Robotto
+- [ ] Rokkaku
+- [ ] Romansu
+- [ ] Roru
+- [ ] Rozu
+- [X] Ryuga
+- [ ] Saboten
+- [ ] Saisho
+- [ ] Sakaeru
+- [ ] Saku
+- [ ] Sakyu
+- [X] Sama
+- [X] Sanba
+- [ ] Sande
+- [ ] Sanfaia
+- [ ] Sankaku
+- [ ] Sarada
+- [ ] Saru
+- [ ] Sasori
+- [ ] Sebun
+- [ ] Seikyo
+- [ ] Seiza
+- [ ] Senpu
+- [ ] Seta
+- [ ] Shaki
+- [X] Shibaru
+- [ ] Shikaku
+- [ ] Shimi
+- [ ] Shisa
+- [ ] Shishi
+- [X] Shizen
+- [ ] Shokku
+- [ ] Shojo
+- [ ] Shukaku
+- [ ] Soru
+- [ ] Sukeru
+- [X] Suna
+- [ ] Suneku
+- [ ] Suno
+- [ ] Supaiku
+- [X] Supido
+- [ ] Suro
+- [ ] Sutaggu
+- [ ] Sutarai
+- [X] Sutata
+- [X] Suteki
+- [X] Sutsu
+- [ ] Sutazzu
+- [ ] Taia
+- [ ] Taiga
+- [ ] Taiju
+- [X] Tanoshi
+- [X] Tashido
+- [ ] Tetsuya
+- [X] Togatta
+- [X] Toge
+- [X] Togo
+- [ ] Toransu
+- [ ] Toryo
+- [ ] Totemu
+- [ ] Tsuin
+- [X] Tsuru
+- [X] Umibe
+- [ ] Uoza
+- [X] Usagi
+- [ ] Ushika
+- [ ] Wakai
+- [ ] Wanwan
+- [ ] Yagi
+- [X] Yanone
+- [ ] Yumi
+- [X] Dokeshi
+- [ ] Tamago
+- [X] Kaika
+- [X] Sodai
+- [ ] Ramen
+- [ ] Patan
+- [ ] Ryoshi
+- [ ] Kujira
+- [ ] Heisei
+- [ ] Yasumi
+- [X] Furitta
+- [ ]
