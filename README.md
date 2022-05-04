@@ -42,10 +42,10 @@
 - [ ] Akua
 - [X] Akuu
 - [ ] Amado
-- [ ] Atii
+- [X] Atii
 - [ ] Baburi
 - [ ] Baburu
-- [ ] Batikku
+- [X] Batikku
 - [ ] Beta
 - [ ] Biri
 - [ ] Borei
@@ -62,11 +62,11 @@
 - [X] Chiru
 - [ ] Chocho
 - [ ] Chokka
-- [ ] Daimon
+- [X] Daimon
 - [X] Deta
 - [X] Dienue
 - [ ] Dokuro
-- [ ] Doragon
+- [X] Doragon
 - [ ] Dorama
 - [ ] Ekkusu
 - [ ] Essha
@@ -80,15 +80,15 @@
 - [ ] Guriddo
 - [ ] Habu
 - [ ] Haisen
-- [ ] Hamon
+- [X] Hamon
 - [X] Hanabi
 - [X] Hanami
 - [ ] Hanawa
 - [ ] Hanrin
-- [ ] Happa
-- [ ] Happi
+- [X] Happa
+- [X] Happi
 - [ ] Hari
-- [ ] Hatsu
+- [X] Hatsu
 - [ ] Hippi
 - [ ] Hisho
 - [ ] Hishu
@@ -102,7 +102,7 @@
 - [ ] Hyogen
 - [ ] Hyokan
 - [ ] Ichigo
-- [ ] Inku
+- [X] Inku
 - [ ] Itoo
 - [ ] Jagi
 - [ ] Jigi
@@ -111,14 +111,14 @@
 - [ ] Jippa
 - [ ] Jueru
 - [ ] Kabocha
-- [ ] Kaen
+- [X] Kaen
 - [ ] Kaizoku
 - [X] Kajitsu
 - [ ] Kamen
 - [ ] Kani
 - [X] Kanki
 - [ ] Kanmon
-- [ ] Kanzo
+- [X] Kanzo
 - [ ] Karaton
 - [ ] Kazaru
 - [ ] Keshiki
@@ -128,13 +128,13 @@
 - [ ] Kirinu
 - [ ] Kiruto
 - [ ] Kodani
-- [ ] Kodomo
-- [ ] Koibori
+- [X] Kodomo
+- [X] Koibori
 - [X] Komono
 - [ ] Komori
 - [ ] Koneku
 - [X] Konma
-- [ ] Kosen
+- [X] Kosen
 - [ ] Koto
 - [X] Koun
 - [ ] Kubiwa
@@ -143,8 +143,8 @@
 - [ ] Kyobona
 - [ ] Kyubik
 - [ ] Majo
-- [ ] Mebaeru
-- [ ] Menfisu
+- [X] Mebaeru
+- [X] Menfisu
 - [ ] Miraju
 - [X] Modoru
 - [ ] Mozaiku
@@ -152,34 +152,34 @@
 - [ ] Naisu
 - [ ] Natsu
 - [ ] Nezumi
-- [ ] Nitto
+- [X] Nitto
 - [ ] Nousagi
 - [ ] Nuime
 - [X] Nureta
-- [ ] Nyanya
+- [X] Nyanya
 - [ ] Ochiba
 - [ ] Okan
-- [ ] Okuto
+- [X] Okuto
 - [ ] Ondori
 - [X] Onmyo
 - [ ] Onpa
 - [ ] Oriito
-- [ ] Oushi
+- [X] Oushi
 - [ ] Parifu
 - [X] Pazuru
 - [ ] Rabu
 - [ ] Raion
 - [ ] Rakki
 - [X] Rasen
-- [ ] Reini
+- [X] Reini
 - [ ] Robotto
 - [ ] Rokkaku
 - [ ] Romansu
-- [ ] Roru
+- [X] Roru
 - [ ] Rozu
 - [X] Ryuga
 - [ ] Saboten
-- [ ] Saisho
+- [X] Saisho
 - [ ] Sakaeru
 - [ ] Saku
 - [ ] Sakyu
@@ -193,17 +193,17 @@
 - [ ] Sasori
 - [ ] Sebun
 - [ ] Seikyo
-- [ ] Seiza
+- [X] Seiza
 - [ ] Senpu
 - [ ] Seta
 - [ ] Shaki
 - [X] Shibaru
 - [ ] Shikaku
-- [ ] Shimi
+- [X] Shimi
 - [ ] Shisa
 - [ ] Shishi
 - [X] Shizen
-- [ ] Shokku
+- [X] Shokku
 - [ ] Shojo
 - [ ] Shukaku
 - [ ] Soru
@@ -229,7 +229,7 @@
 - [X] Togatta
 - [X] Toge
 - [X] Togo
-- [ ] Toransu
+- [X] Toransu
 - [ ] Toryo
 - [ ] Totemu
 - [ ] Tsuin
@@ -238,13 +238,13 @@
 - [ ] Uoza
 - [X] Usagi
 - [ ] Ushika
-- [ ] Wakai
+- [X] Wakai
 - [ ] Wanwan
 - [ ] Yagi
 - [X] Yanone
 - [ ] Yumi
 - [X] Dokeshi
-- [ ] Tamago
+- [X] Tamago
 - [X] Kaika
 - [X] Sodai
 - [ ] Ramen
@@ -256,15 +256,20 @@
 - [X] Furitta
 
 ## Collectors Colors (In Progress)
+* Roru
+* Kosen
 * Tanoshi
+* Happi
 * Sutata (see table)
 * Konma
+* Daimon
+* Tsuru
 * Hanabi (see table)
 * Usagi
 * Fuwa
 * Hanami (see table)
 * Gekko (see table)
-* Ryuga
+* Ryuga (rare only)
 * Onmyo
 * Shibaru
 * Rasen
@@ -277,10 +282,19 @@
 * Pazuru
 * Toge
 * Yanone
-* Chiru
+* Saisho
+* Chiru (rare only)
 * Togatta
+* Koibori
+* Oushi
+* Seiza
+* Hoshizo
+* Nitto
+* Tashido
+* Shimi
+* Kaen
 * Suteki
-* Sanba
+* Sanba (rare only)
 * Koun
 * Bukimi
 * Goburu
@@ -288,12 +302,25 @@
 * Sama
 * Nureta
 * Shizen
-* Kanki
+* Kanki (rare only)
+* Sutsu (rare only)
+* Kanzo
+* Happa
+* Atii
+* Menfisu
 * Umibe
 * Jimoto
+* Sutarai (rare only)
+* Reini
+* Wakai
+* Doragon
+* Toransu
 * Kajitsu
+* Okuto
+* Nyanya
 * Furitta
 * Dokeshi
+* Tamago
 * Kaika
 * Sodai
 * 
@@ -342,3 +369,29 @@
 |1234-|      |      |      |      |      |      |      |      |
 |1234-|      |      |      |      |      |      |      |      |
 |1234-|      |      |      |      |      |      |      |      |
+
+## Had to release, so clone another to ascend
+* tsuru
+* happi
+* roru
+* daimon
+* saisho
+* sutsu
+* kosen
+* oushi
+* seiza
+* koibori
+* shimi
+* nitto
+* kanzo
+* kaen
+* atii
+* menfisu
+* reini
+* wakai
+* nyanya
+* doragon
+* toransu
+* tamago
+* okuto
+* happa
