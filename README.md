@@ -13,7 +13,7 @@
 - [X] ~Kimasu~
 - [X] ~Zebura~
 - [X] Meisai
-- [ ] Shizuku
+- [X] Shizuku
 - [ ] Supure
 - [ ] Toraiu
 - [ ] Goromo
@@ -146,7 +146,7 @@
 - [ ] Mebaeru
 - [ ] Menfisu
 - [ ] Miraju
-- [ ] Modoru
+- [X] Modoru
 - [ ] Mozaiku
 - [ ] Mukei
 - [ ] Naisu
@@ -215,7 +215,7 @@
 - [X] Supido
 - [ ] Suro
 - [ ] Sutaggu
-- [ ] Sutarai
+- [X] Sutarai
 - [X] Sutata
 - [X] Suteki
 - [X] Sutsu
@@ -254,4 +254,91 @@
 - [ ] Heisei
 - [ ] Yasumi
 - [X] Furitta
-- [ ]
+
+## Collectors Colors (In Progress)
+* Tanoshi
+* Sutata (see table)
+* Konma
+* Hanabi (see table)
+* Usagi
+* Fuwa
+* Hanami (see table)
+* Gekko (see table)
+* Ryuga
+* Onmyo
+* Shibaru
+* Rasen
+* Suna
+* Deta
+* Akuu
+* Togo
+* Dienue
+* Supido
+* Pazuru
+* Toge
+* Yanone
+* Chiru
+* Togatta
+* Suteki
+* Sanba
+* Koun
+* Bukimi
+* Goburu
+* Komono
+* Sama
+* Nureta
+* Shizen
+* Kanki
+* Umibe
+* Jimoto
+* Kajitsu
+* Furitta
+* Dokeshi
+* Kaika
+* Sodai
+* 
+
+### Sutata
+
+|Color|-dai  |-ukon |-kuro |-shiro|-koji |-nido |-buru |-pinku|
+|-----|------|------|------|------|------|------|------|------|
+|Aka- | X    |      | X    | X    |      |      |      |      |
+|Ao-  | X    | X    | X    | X    |      |      |      |      |
+|Ryo- |      |      |      | X    |      |      |      |      |
+|Ki-  |      |      | X    | X    |      |      |      |      |
+
+### Hanabi
+
+|Color|-dai  |-katsu|-shiro|-ukon |-usu  |-mura |-umi  |-pinku|
+|-----|------|------|------|------|------|------|------|------|
+|Ne-  | X    |      | X    | X    | X    |      |      |      |
+|Ki-  |      |      |      |      | X    |      |      |      |
+|Ma-  |      |      |      |      |      |      |      |      |
+|Ai-  | X    |      |      |      |      |      |      |      |
+
+### Hanami
+
+|Color|-gin  |-dai  |-iero |-sumi |-pinku|-maze |-mura |-buru |
+|-----|------|------|------|------|------|------|------|------|
+|Shi- |      |      |      |      |      |      |      |      |
+|Aka- | X    |      |      | X    |      |      | X    |      |
+|Mu-  |      |      |      |      |      |      |      |      |
+|Ma-  |      | X    |      |      |      |      | X    |      |
+
+### Gekko
+
+|Color|-gin  |-gure |-sairo|-koji |-usu  |-umi  |-buru |-sumi |
+|-----|------|------|------|------|------|------|------|------|
+|Shi- | X    | X    | X    | X    | X    | X    | X    | X    |
+|Kiu- | X    | X    | X    | X    |      | X    |      | X    |
+|Mu-  | X    | X    | X    | X    | X    | X    |      | X    |
+|Sei- | X    | X    | X    | X    | X    | X    |      | X    |
+
+### Template:
+
+|Color|-12345|-12345|-12345|-12345|-12345|-12345|-12345|-12345|
+|-----|------|------|------|------|------|------|------|------|
+|1234-|      |      |      |      |      |      |      |      |
+|1234-|      |      |      |      |      |      |      |      |
+|1234-|      |      |      |      |      |      |      |      |
+|1234-|      |      |      |      |      |      |      |      |
