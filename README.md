@@ -263,6 +263,7 @@
 * Sutata (see table)
 * Konma
 * Daimon
+* Modoru
 * Tsuru
 * Hanabi (see table)
 * Usagi
@@ -305,19 +306,23 @@
 * Kanki (rare only)
 * Sutsu (rare only)
 * Kanzo
+* Inku
 * Happa
 * Atii
 * Menfisu
 * Umibe
 * Jimoto
 * Sutarai (rare only)
+* Hatsu
 * Reini
 * Wakai
 * Doragon
+* Kodomo
 * Toransu
 * Kajitsu
 * Okuto
 * Nyanya
+* Shokku
 * Furitta
 * Dokeshi
 * Tamago
