@@ -39,7 +39,7 @@
 ## COLLECTORS
 - [ ] Aishite
 - [ ] Akachan
-- [ ] Akua
+- [X] Akua
 - [X] Akuu
 - [ ] Amado
 - [X] Atii
@@ -58,20 +58,20 @@
 - [ ] Buta
 - [ ] Byakko
 - [ ] Byoga
-- [ ] Cheka
+- [X] Cheka
 - [X] Chiru
-- [ ] Chocho
+- [X] Chocho
 - [ ] Chokka
 - [X] Daimon
 - [X] Deta
 - [X] Dienue
-- [ ] Dokuro
+- [X] Dokuro
 - [X] Doragon
 - [ ] Dorama
 - [ ] Ekkusu
 - [ ] Essha
 - [X] Fuwa
-- [X] Gekko
+- [X] ~Gekko~
 - [ ] Genso
 - [ ] Ginga
 - [X] Goburu
@@ -158,7 +158,7 @@
 - [X] Nureta
 - [X] Nyanya
 - [ ] Ochiba
-- [ ] Okan
+- [X] Okan
 - [X] Okuto
 - [ ] Ondori
 - [X] Onmyo
@@ -206,7 +206,7 @@
 - [X] Shokku
 - [ ] Shojo
 - [ ] Shukaku
-- [ ] Soru
+- [X] Soru
 - [ ] Sukeru
 - [X] Suna
 - [ ] Suneku
@@ -240,16 +240,16 @@
 - [ ] Ushika
 - [X] Wakai
 - [ ] Wanwan
-- [ ] Yagi
+- [X] Yagi
 - [X] Yanone
 - [ ] Yumi
 - [X] Dokeshi
 - [X] Tamago
 - [X] Kaika
 - [X] Sodai
-- [ ] Ramen
-- [ ] Patan
-- [ ] Ryoshi
+- [X] Ramen
+- [X] Patan
+- [X] Ryoshi
 - [ ] Kujira
 - [ ] Heisei
 - [ ] Yasumi
@@ -269,7 +269,6 @@
 * Usagi
 * Fuwa
 * Hanami (see table)
-* Gekko (see table)
 * Ryuga (rare only)
 * Onmyo
 * Shibaru
@@ -284,7 +283,7 @@
 * Toge
 * Yanone
 * Saisho
-* Chiru (rare only)
+* Chiru
 * Togatta
 * Koibori
 * Oushi
@@ -303,7 +302,7 @@
 * Sama
 * Nureta
 * Shizen
-* Kanki (rare only)
+* Kanki
 * Sutsu (rare only)
 * Kanzo
 * Inku
@@ -357,15 +356,6 @@
 |Mu-  |      |      |      |      |      |      |      |      |
 |Ma-  |      | X    |      |      |      |      | X    |      |
 
-### Gekko
-
-|Color|-gin  |-gure |-sairo|-koji |-usu  |-umi  |-buru |-sumi |
-|-----|------|------|------|------|------|------|------|------|
-|Shi- | X    | X    | X    | X    | X    | X    | X    | X    |
-|Kiu- | X    | X    | X    | X    |      | X    |      | X    |
-|Mu-  | X    | X    | X    | X    | X    | X    |      | X    |
-|Sei- | X    | X    | X    | X    | X    | X    |      | X    |
-
 ### Template:
 
 |Color|-12345|-12345|-12345|-12345|-12345|-12345|-12345|-12345|
@@ -376,27 +366,27 @@
 |1234-|      |      |      |      |      |      |      |      |
 
 ## Had to release, so clone another to ascend
-* tsuru
-* happi
-* roru
-* daimon
-* saisho
-* sutsu
-* kosen
-* oushi
-* seiza
-* koibori
-* shimi
-* nitto
-* kanzo
-* kaen
-* atii
-* menfisu
-* reini
-* wakai
-* nyanya
-* doragon
-* toransu
-* tamago
-* okuto
-* happa
+* ~tsuru~
+* ~happi~
+* ~roru~
+* ~daimon~
+* ~saisho~
+* ~sutsu~
+* ~kosen~
+* ~oushi~
+* ~seiza~
+* ~koibori~
+* ~shimi~
+* ~nitto~
+* ~kanzo~
+* ~kaen~
+* ~atii~
+* ~menfisu~
+* ~reini~
+* ~wakai~
+* ~nyanya~
+* ~doragon~
+* ~toransu~
+* ~tamago~
+* ~okuto~
+* ~happa~
