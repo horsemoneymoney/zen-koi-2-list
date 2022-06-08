@@ -2,7 +2,7 @@
 
 ## Key
 * ~crossed out~ = finished koi collection
-* [x] checkmark = unlocked
+* [x] checkmark = unlocked / started
 * [ ] <name> * = prioritize starter, due to paired #koi-roles
 
 ## PROGRESSIVES
@@ -38,8 +38,8 @@
 - [ ] Katame
 
 ## COLLECTORS
-- [ ] Aishite
-- [ ] Akachan
+- [?] Aishite
+- [?] Akachan
 - [X] Akua
 - [X] Akuu
 - [ ] Amado *
@@ -50,7 +50,7 @@
 - [ ] Beta *
 - [ ] Biri
 - [ ] Borei
-- [ ] Botan *
+- [?] Botan *
 - [X] Bukimi
 - [ ] Bunki
 - [ ] Bureku
@@ -73,8 +73,8 @@
 - [ ] Essha *
 - [X] Fuwa
 - [X] ~Gekko~
-- [ ] Genso *
-- [ ] Ginga *
+- [?] Genso *
+- [?] Ginga *
 - [X] Goburu
 - [ ] Goshikku
 - [ ] Gurade
@@ -106,7 +106,7 @@
 - [X] Inku
 - [ ] Itoo
 - [ ] Jagi
-- [ ] Jigi *
+- [?] Jigi *
 - [X] Jimoto
 - [ ] Jiotori
 - [ ] Jippa
@@ -116,12 +116,12 @@
 - [ ] Kaizoku *
 - [X] Kajitsu
 - [ ] Kamen *
-- [ ] Kani *
+- [?] Kani *
 - [X] Kanki
 - [ ] Kanmon *
 - [X] Kanzo
-- [ ] Karaton
-- [ ] Kazaru
+- [?] Karaton
+- [ ] Kazaru *?
 - [ ] Keshiki
 - [ ] Kessho
 - [ ] Kigen
@@ -136,7 +136,7 @@
 - [ ] Koneku
 - [X] Konma
 - [X] Kosen
-- [ ] Koto *
+- [?] Koto *
 - [X] Koun
 - [ ] Kubiwa
 - [ ] Kurinpu
@@ -174,12 +174,12 @@
 - [X] Rasen
 - [X] Reini
 - [ ] Robotto *
-- [ ] Rokkaku
-- [ ] Romansu
+- [ ] Rokkaku *?
+- [?] Romansu
 - [X] Roru
 - [ ] Rozu *
 - [X] Ryuga
-- [ ] Saboten *
+- [?] Saboten *
 - [X] Saisho
 - [ ] Sakaeru *
 - [ ] Saku
@@ -202,7 +202,7 @@
 - [ ] Shikaku *
 - [X] Shimi
 - [ ] Shisa *
-- [ ] Shishi *
+- [?] Shishi *
 - [X] Shizen
 - [X] Shokku
 - [ ] Shojo *
