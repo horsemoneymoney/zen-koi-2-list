@@ -3,6 +3,7 @@
 ## Key
 * ~crossed out~ = finished koi collection
 * [x] checkmark = unlocked
+* [ ] <name> * = prioritize starter, due to paired #koi-roles
 
 ## PROGRESSIVES
 - [X] ~Inazuma~
@@ -41,15 +42,15 @@
 - [ ] Akachan
 - [X] Akua
 - [X] Akuu
-- [ ] Amado
+- [ ] Amado *
 - [X] Atii
 - [ ] Baburi
 - [ ] Baburu
 - [X] Batikku
-- [ ] Beta
+- [ ] Beta *
 - [ ] Biri
 - [ ] Borei
-- [ ] Botan
+- [ ] Botan *
 - [X] Bukimi
 - [ ] Bunki
 - [ ] Bureku
@@ -57,11 +58,11 @@
 - [ ] Buronko
 - [ ] Buta
 - [ ] Byakko
-- [ ] Byoga
+- [ ] Byoga *
 - [X] Cheka
 - [X] Chiru
 - [X] Chocho
-- [ ] Chokka
+- [ ] Chokka *
 - [X] Daimon
 - [X] Deta
 - [X] Dienue
@@ -69,17 +70,17 @@
 - [X] Doragon
 - [ ] Dorama
 - [ ] Ekkusu
-- [ ] Essha
+- [ ] Essha *
 - [X] Fuwa
 - [X] ~Gekko~
-- [ ] Genso
-- [ ] Ginga
+- [ ] Genso *
+- [ ] Ginga *
 - [X] Goburu
 - [ ] Goshikku
 - [ ] Gurade
 - [ ] Guriddo
 - [ ] Habu
-- [ ] Haisen
+- [ ] Haisen *
 - [X] Hamon
 - [X] Hanabi
 - [X] Hanami
@@ -87,7 +88,7 @@
 - [ ] Hanrin
 - [X] Happa
 - [X] Happi
-- [ ] Hari
+- [ ] Hari *
 - [X] Hatsu
 - [ ] Hippi
 - [ ] Hisho
@@ -95,29 +96,29 @@
 - [ ] Hitsuji
 - [ ] Hiyake
 - [ ] Hiyoko
-- [ ] Hoseki
+- [ ] Hoseki *
 - [X] Hoshizo
 - [ ] Hosshin
 - [ ] Hyogara
 - [ ] Hyogen
 - [ ] Hyokan
-- [ ] Ichigo
+- [ ] Ichigo *
 - [X] Inku
 - [ ] Itoo
 - [ ] Jagi
-- [ ] Jigi
+- [ ] Jigi *
 - [X] Jimoto
 - [ ] Jiotori
 - [ ] Jippa
 - [ ] Jueru
 - [ ] Kabocha
 - [X] Kaen
-- [ ] Kaizoku
+- [ ] Kaizoku *
 - [X] Kajitsu
-- [ ] Kamen
-- [ ] Kani
+- [ ] Kamen *
+- [ ] Kani *
 - [X] Kanki
-- [ ] Kanmon
+- [ ] Kanmon *
 - [X] Kanzo
 - [ ] Karaton
 - [ ] Kazaru
@@ -127,7 +128,7 @@
 - [ ] Kinko
 - [ ] Kirinu
 - [ ] Kiruto
-- [ ] Kodani
+- [ ] Kodani *
 - [X] Kodomo
 - [X] Koibori
 - [X] Komono
@@ -135,7 +136,7 @@
 - [ ] Koneku
 - [X] Konma
 - [X] Kosen
-- [ ] Koto
+- [ ] Koto *
 - [X] Koun
 - [ ] Kubiwa
 - [ ] Kurinpu
@@ -145,42 +146,42 @@
 - [ ] Majo
 - [X] Mebaeru
 - [X] Menfisu
-- [ ] Miraju
+- [ ] Miraju *
 - [X] Modoru
-- [ ] Mozaiku
-- [ ] Mukei
+- [X] Mozaiku
+- [ ] Mukei *
 - [ ] Naisu
 - [ ] Natsu
-- [ ] Nezumi
+- [ ] Nezumi *
 - [X] Nitto
 - [ ] Nousagi
 - [ ] Nuime
 - [X] Nureta
 - [X] Nyanya
-- [ ] Ochiba
+- [ ] Ochiba *
 - [X] Okan
 - [X] Okuto
-- [ ] Ondori
+- [ ] Ondori *
 - [X] Onmyo
-- [ ] Onpa
-- [ ] Oriito
+- [ ] Onpa *
+- [ ] Oriito *
 - [X] Oushi
-- [ ] Parifu
+- [ ] Parifu *
 - [X] Pazuru
 - [ ] Rabu
 - [ ] Raion
-- [ ] Rakki
+- [ ] Rakki *
 - [X] Rasen
 - [X] Reini
-- [ ] Robotto
+- [ ] Robotto *
 - [ ] Rokkaku
 - [ ] Romansu
 - [X] Roru
-- [ ] Rozu
+- [ ] Rozu *
 - [X] Ryuga
-- [ ] Saboten
+- [ ] Saboten *
 - [X] Saisho
-- [ ] Sakaeru
+- [ ] Sakaeru *
 - [ ] Saku
 - [ ] Sakyu
 - [X] Sama
@@ -194,24 +195,24 @@
 - [ ] Sebun
 - [ ] Seikyo
 - [X] Seiza
-- [ ] Senpu
+- [ ] Senpu *
 - [ ] Seta
 - [ ] Shaki
 - [X] Shibaru
-- [ ] Shikaku
+- [ ] Shikaku *
 - [X] Shimi
-- [ ] Shisa
-- [ ] Shishi
+- [ ] Shisa *
+- [ ] Shishi *
 - [X] Shizen
 - [X] Shokku
-- [ ] Shojo
-- [ ] Shukaku
+- [ ] Shojo *
+- [ ] Shukaku *
 - [X] Soru
-- [ ] Sukeru
+- [ ] Sukeru *
 - [X] Suna
 - [ ] Suneku
 - [ ] Suno
-- [ ] Supaiku
+- [ ] Supaiku *
 - [X] Supido
 - [ ] Suro
 - [ ] Sutaggu
@@ -225,24 +226,24 @@
 - [ ] Taiju
 - [X] Tanoshi
 - [X] Tashido
-- [ ] Tetsuya
+- [ ] Tetsuya *
 - [X] Togatta
 - [X] Toge
 - [X] Togo
 - [X] Toransu
-- [ ] Toryo
+- [ ] Toryo *
 - [ ] Totemu
 - [ ] Tsuin
 - [X] Tsuru
 - [X] Umibe
-- [ ] Uoza
+- [ ] Uoza *
 - [X] Usagi
-- [ ] Ushika
+- [ ] Ushika *
 - [X] Wakai
-- [ ] Wanwan
+- [ ] Wanwan *
 - [X] Yagi
 - [X] Yanone
-- [ ] Yumi
+- [ ] Yumi *
 - [X] Dokeshi
 - [X] Tamago
 - [X] Kaika
@@ -364,29 +365,3 @@
 |1234-|      |      |      |      |      |      |      |      |
 |1234-|      |      |      |      |      |      |      |      |
 |1234-|      |      |      |      |      |      |      |      |
-
-## Had to release, so clone another to ascend
-* ~tsuru~
-* ~happi~
-* ~roru~
-* ~daimon~
-* ~saisho~
-* ~sutsu~
-* ~kosen~
-* ~oushi~
-* ~seiza~
-* ~koibori~
-* ~shimi~
-* ~nitto~
-* ~kanzo~
-* ~kaen~
-* ~atii~
-* ~menfisu~
-* ~reini~
-* ~wakai~
-* ~nyanya~
-* ~doragon~
-* ~toransu~
-* ~tamago~
-* ~okuto~
-* ~happa~
