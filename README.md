@@ -1,7 +1,7 @@
 # Zen Koi 2 List
 
 ## Key
-* ~crossed out~ = finished koi collection
+* ~crossed out~ = finished koi collection / fully ascended
 * [x] checkmark = unlocked / started
 * [ ] <name> * = prioritize starter, due to paired #koi-roles
 
@@ -42,7 +42,7 @@
 - [?] Akachan
 - [X] Akua
 - [X] Akuu
-- [ ] Amado *
+- [?] Amado *
 - [X] Atii
 - [ ] Baburi
 - [ ] Baburu
@@ -74,7 +74,7 @@
 - [X] Fuwa
 - [X] ~Gekko~
 - [?] Genso *
-- [?] Ginga *
+- [ ] Ginga *
 - [X] Goburu
 - [ ] Goshikku
 - [ ] Gurade
@@ -257,105 +257,6 @@
 - [X] Furitta
 
 ## Collectors Colors (In Progress)
-* Roru
-* Kosen
-* Tanoshi
-* Happi
-* Sutata (see table)
-* Konma
-* Daimon
-* Modoru
-* Tsuru
-* Hanabi (see table)
-* Usagi
-* Fuwa
-* Hanami (see table)
-* Ryuga (rare only)
-* Onmyo
-* Shibaru
-* Rasen
-* Suna
-* Deta
-* Akuu
-* Togo
-* Dienue
-* Supido
-* Pazuru
-* Toge
-* Yanone
-* Saisho
-* Chiru
-* Togatta
-* Koibori
-* Oushi
-* Seiza
-* Hoshizo
-* Nitto
-* Tashido
-* Shimi
-* Kaen
-* Suteki
-* Sanba (rare only)
-* Koun
-* Bukimi
-* Goburu
-* Komono
-* Sama
-* Nureta
-* Shizen
-* Kanki
-* Sutsu (rare only)
-* Kanzo
-* Inku
-* Happa
-* Atii
-* Menfisu
-* Umibe
-* Jimoto
-* Sutarai (rare only)
-* Hatsu
-* Reini
-* Wakai
-* Doragon
-* Kodomo
-* Toransu
-* Kajitsu
-* Okuto
-* Nyanya
-* Shokku
-* Furitta
-* Dokeshi
-* Tamago
-* Kaika
-* Sodai
-* 
-
-### Sutata
-
-|Color|-dai  |-ukon |-kuro |-shiro|-koji |-nido |-buru |-pinku|
-|-----|------|------|------|------|------|------|------|------|
-|Aka- | X    |      | X    | X    |      |      |      |      |
-|Ao-  | X    | X    | X    | X    |      |      |      |      |
-|Ryo- |      |      |      | X    |      |      |      |      |
-|Ki-  |      |      | X    | X    |      |      |      |      |
-
-### Hanabi
-
-|Color|-dai  |-katsu|-shiro|-ukon |-usu  |-mura |-umi  |-pinku|
-|-----|------|------|------|------|------|------|------|------|
-|Ne-  | X    |      | X    | X    | X    |      |      |      |
-|Ki-  |      |      |      |      | X    |      |      |      |
-|Ma-  |      |      |      |      |      |      |      |      |
-|Ai-  | X    |      |      |      |      |      |      |      |
-
-### Hanami
-
-|Color|-gin  |-dai  |-iero |-sumi |-pinku|-maze |-mura |-buru |
-|-----|------|------|------|------|------|------|------|------|
-|Shi- |      |      |      |      |      |      |      |      |
-|Aka- | X    |      |      | X    |      |      | X    |      |
-|Mu-  |      |      |      |      |      |      |      |      |
-|Ma-  |      | X    |      |      |      |      | X    |      |
 
 ### Template:
 
@@ -365,3 +266,29 @@
 |1234-|      |      |      |      |      |      |      |      |
 |1234-|      |      |      |      |      |      |      |      |
 |1234-|      |      |      |      |      |      |      |      |
+
+## Had to release, so clone another to ascend
+* ~tsuru~
+* ~happi~
+* ~roru~
+* ~daimon~
+* ~saisho~
+* ~sutsu~
+* ~kosen~
+* ~oushi~
+* ~seiza~
+* ~koibori~
+* ~shimi~
+* ~nitto~
+* ~kanzo~
+* ~kaen~
+* ~atii~
+* ~menfisu~
+* ~reini~
+* ~wakai~
+* ~nyanya~
+* ~doragon~
+* ~toransu~
+* ~tamago~
+* ~okuto~
+* ~happa~
