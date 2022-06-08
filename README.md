@@ -42,7 +42,7 @@
 - [?] Akachan
 - [X] Akua
 - [X] Akuu
-- [?] Amado *
+- [ ] Amado *
 - [X] Atii
 - [ ] Baburi
 - [ ] Baburu
@@ -73,7 +73,7 @@
 - [ ] Essha *
 - [X] Fuwa
 - [X] ~Gekko~
-- [?] Genso *
+- [ ] Genso *
 - [ ] Ginga *
 - [X] Goburu
 - [ ] Goshikku
@@ -163,10 +163,10 @@
 - [X] Okuto
 - [ ] Ondori *
 - [X] Onmyo
-- [ ] Onpa *
+- [?] Onpa *
 - [ ] Oriito *
 - [X] Oushi
-- [ ] Parifu *
+- [?] Parifu *
 - [X] Pazuru
 - [ ] Rabu
 - [ ] Raion
