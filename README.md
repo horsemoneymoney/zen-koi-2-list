@@ -38,8 +38,8 @@
 - [ ] Katame
 
 ## COLLECTORS
-- [?] Aishite
-- [?] Akachan
+- [X] Aishite
+- [X] Akachan
 - [X] Akua
 - [X] Akuu
 - [ ] Amado *
@@ -47,10 +47,10 @@
 - [ ] Baburi
 - [ ] Baburu
 - [X] Batikku
-- [ ] Beta *
+- [X] Beta
 - [ ] Biri
 - [ ] Borei
-- [?] Botan *
+- [X] Botan
 - [X] Bukimi
 - [ ] Bunki
 - [ ] Bureku
@@ -120,7 +120,7 @@
 - [X] Kanki
 - [ ] Kanmon *
 - [X] Kanzo
-- [?] Karaton
+- [X] Karaton
 - [ ] Kazaru *?
 - [ ] Keshiki
 - [ ] Kessho
@@ -163,7 +163,7 @@
 - [X] Okuto
 - [ ] Ondori *
 - [X] Onmyo
-- [?] Onpa *
+- [ ] Onpa *
 - [ ] Oriito *
 - [X] Oushi
 - [?] Parifu *
@@ -175,7 +175,7 @@
 - [X] Reini
 - [ ] Robotto *
 - [ ] Rokkaku *?
-- [?] Romansu
+- [X] Romansu
 - [X] Roru
 - [ ] Rozu *
 - [X] Ryuga
