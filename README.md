@@ -106,7 +106,7 @@
 - [X] Inku
 - [ ] Itoo
 - [ ] Jagi
-- [?] Jigi *
+- [X] Jigi
 - [X] Jimoto
 - [ ] Jiotori
 - [ ] Jippa
@@ -116,7 +116,7 @@
 - [ ] Kaizoku *
 - [X] Kajitsu
 - [ ] Kamen *
-- [?] Kani *
+- [X] Kani
 - [X] Kanki
 - [ ] Kanmon *
 - [X] Kanzo
@@ -136,7 +136,7 @@
 - [ ] Koneku
 - [X] Konma
 - [X] Kosen
-- [?] Koto *
+- [X] Koto
 - [X] Koun
 - [ ] Kubiwa
 - [ ] Kurinpu
@@ -166,7 +166,7 @@
 - [ ] Onpa *
 - [ ] Oriito *
 - [X] Oushi
-- [?] Parifu *
+- [X] Parifu
 - [X] Pazuru
 - [ ] Rabu
 - [ ] Raion
